@@ -1,10 +1,13 @@
 import React from 'react'
 
-const SkillsCard = () => {
+const SkillsCard = ({ icon, title, text }) => {
   return (
-    <div>
-      
-    </div>
+    <article>
+      <span>{icon}</span>
+      <h4 className='mt-6 font-bold'></h4>
+      {title}
+      <p className='mt-2 text-slate-500'>{text}</p>
+    </article>
   )
 }
 
