@@ -25,7 +25,7 @@ export const skills = [
     id: nanoid(),
     title: 'Java',
     icon: <FaJava className='h-16 w-16 text-emerald-500' />,
-    text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+    text: 'Proficient in Java, designing and developing robust server-side applications with a focus on performance and scalability.',
   },
   {
     id: nanoid(),
@@ -37,13 +37,13 @@ export const skills = [
     id: nanoid(),
     title: 'PHP',
     icon: <FaPhp className='h-16 w-16 text-emerald-500' />,
-    text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+    text: 'Proficient in PHP, developing dynamic server-side applications and managing databases to create interactive and data-driven web experiences.',
   },
   {
     id: nanoid(),
     title: 'Wordpress',
     icon: <FaWordpress className='h-16 w-16 text-emerald-500' />,
-    text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+    text: 'Experienced with WordPress, creating and customizing themes and plugins to build functional and visually appealing websites.',
   },
 ]
 
