@@ -10,7 +10,10 @@ const Hero = () => {
         <article>
           <h1 className='text-7xl fornt-bold tracking-wider'> Hi, I'm Tabby</h1>
           <p className='mt-4 text-3xl text-slate-700 capitalize tracking-wide'>
-            Full Stack Developer
+            Developer with strong interpersonal skills and extensive experience
+            in technical implementation and customer success, combining
+            technical skills with a people-first approach to deliver impactful
+            solutions
           </p>
           <p className='mt-2 text-lg text-slate-700 capitalize tracking-wide'>
             turning ideas into interactive reality

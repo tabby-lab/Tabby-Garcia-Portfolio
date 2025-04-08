@@ -11,20 +11,20 @@ const About = () => {
         <article>
           <SectionTitle text='code and coffee' />
           <p className='text-slate-600 mt-8 leading-loose'>
-            As a dedicated Full Stack Developer, I am fueled by a passion for
-            creating visually captivating applications that prioritize
-            user-centric experiences. A collaborative team player with a proven
-            track record in complex problem-solving and a strong work ethic, I
-            lead with empathy and purpose, aiming to create inclusive spaces and
-            meaningful interactions for all. With proficiency in both front-end
-            and back-end technologies, I thrive on collaborating with diverse
-            teams to bring impactful web applications and software to life.
-            <br></br><br></br>
-             ~
-            Javascript, React, AWS, Java, Node.js, Wordpress, GCP, GKE, Helidon,
-            Spring Boot, PostgreSQL, Google Analytics, Google Tag Manager,
-            MySQL, Caspio, MongoDB, Bootstrap, HTML, CSS, Git, PHP, JQuery
-            Technical Support and more! ~
+            Driven by curiosity and a commitment to meaningful impact, I thrive
+            in roles where I can blend technical problem-solving with
+            human-centered support. I enjoy diving deep into complex systems,
+            uncovering root causes, and turning challenges into opportunities
+            for learning and improvement. Whether working directly with users,
+            collaborating cross-functionally, or shaping implementation
+            strategies, I bring empathy, adaptability, and a proactive mindset
+            to every interaction—always aiming to deliver solutions that are
+            both effective and empowering.
+            <br></br>
+            <br></br>~ Javascript, React, AWS, Java, Node.js, Wordpress, GCP,
+            GKE, Helidon, Spring Boot, PostgreSQL, Google Analytics, Google Tag
+            Manager, MySQL, Caspio, MongoDB, Bootstrap, HTML, CSS, Git, PHP,
+            JQuery Technical Support and more! ~
           </p>
         </article>
       </div>
