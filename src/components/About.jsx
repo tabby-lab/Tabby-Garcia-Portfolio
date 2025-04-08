@@ -9,7 +9,7 @@ const About = () => {
       <div className='align-element grid md:grid-cols-2 items-center gap-16'>
         <img src={aboutSvg} className='w-full h-64' />
         <article>
-          <SectionTitle text='code and coffee' />
+          <SectionTitle text='tech and coffee' />
           <p className='text-slate-600 mt-8 leading-loose'>
             Driven by curiosity and a commitment to meaningful impact, I thrive
             in roles where I can blend technical problem-solving with
@@ -21,10 +21,10 @@ const About = () => {
             to every interaction—always aiming to deliver solutions that are
             both effective and empowering.
             <br></br>
-            <br></br>~ Javascript, React, AWS, Java, Node.js, Wordpress, GCP,
-            GKE, Helidon, Spring Boot, PostgreSQL, Google Analytics, Google Tag
-            Manager, MySQL, Caspio, MongoDB, Bootstrap, HTML, CSS, Git, PHP,
-            JQuery Technical Support and more! ~
+            <br></br>~ Technical Support, Javascript, React, AWS, Java, Node.js,
+            Wordpress, GCP, GKE, Helidon, Spring Boot, PostgreSQL, Google
+            Analytics, Google Tag Manager, MySQL, Caspio, MongoDB, Bootstrap,
+            HTML, CSS, Git, PHP, JQuery and more! ~
           </p>
         </article>
       </div>
